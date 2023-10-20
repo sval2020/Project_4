@@ -1,7 +1,7 @@
 # Project Title and Description:
 
 # Comparing binary classifiers for stroke prediction
-## We took stroke data, cleaned it, stratified it and ran it through 2 traditional machine learning processes -- Nearest Neighbors and random forest. We built a Neuro network and tried tuning it in various ways for best accuracy.
+## We took stroke data, cleaned it, stratified it and ran it through 2 traditional machine learning processes -- Nearest Neighbors and random forest. We built a Neural network and tried tuning it in various ways for best accuracy.
 
 # Installation
 ## These libraries must all be installed on your system to run our code: warnings, pandas, pathlib, sklearn.model_selection, sklearn.metrics, sklearn.preprocessing, Matplotlib, Tensor flow.
